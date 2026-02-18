@@ -1,0 +1,8 @@
+{
+  "Servers": [
+    {
+      "BaseURL": "https://enterpriseenrollment.manage.microsoft.com",
+      "Version": "mdm-byod"
+    }
+  ]
+}
