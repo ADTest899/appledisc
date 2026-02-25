@@ -1,8 +1,1 @@
-{
-  "Servers": [
-    {
-      "BaseURL": "https://enterpriseenrollment.manage.microsoft.com",
-      "Version": "mdm-byod"
-    }
-  ]
-}
+{"Servers":[{"Version":"mdm-byod", "BaseURL":"https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=e26d8732-4336-451d-87ea-76bf5f140bdc"}]}
